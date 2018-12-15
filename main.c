@@ -42,7 +42,7 @@ double sqr(double x){
 
 #define inc 100
 #define X 0.15
-#define Mu 0.01
+#define Mu 0.015
 #define c_length 64
 
 void init(uint64_t* chromo);
